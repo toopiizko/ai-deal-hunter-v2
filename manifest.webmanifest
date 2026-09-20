@@ -1,0 +1,10 @@
+{
+  "name": "AI Deal Hunter",
+  "short_name": "Deal Hunter",
+  "description": "ค้นหาและเปรียบเทียบดีลมือสองที่คุ้มที่สุด",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8f7ff",
+  "theme_color": "#6d4aff",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
